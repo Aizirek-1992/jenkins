@@ -1,10 +1,10 @@
 # Below code is used to set backend only
-s3_bucket                       =	"myjenkinsbucket-2020"
+s3_bucket                       =	"jenkins-class-2020"
 s3_folder_region                =	"us-east-1"
-vpc_id		    	            =	"vpc-3474474e"
-zone_id			                =	"Z1W39E8G050R8U" 
-domain			                =	"hodantech.com"
-base_domain			            =	"hodantech.com"
+vpc_id		    	            =	"vpc-0f19e5315feff9f5a"
+zone_id			                =	"Z1QJBJQ2HZ8GGR" 
+domain			                =	"aizirek.org"
+base_domain			            =	"aizirek.org"
 region 			                = 	"us-east-1"
 
 
